@@ -1,2 +1,7 @@
 this is the first written line
 second line added
+-squash 1
+-squash 2
+-squash 3
+-squash 4
+-squash 5
